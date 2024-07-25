@@ -3,7 +3,7 @@
 title: 杨坤
 
 # Name pronunciation (optional)
-name_pronunciation: Yang Kun
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Kun
@@ -11,48 +11,46 @@ last_name: Yang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: 北航可靠飞行控制研究组
+    url: https://rfly.buaa.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+  - icon: custom/mail
+    url: 'mailto:yangkun_buaa@buaa.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
+    url: https://github.com/KennethYangle
+  - icon: brands/weixin
     url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: custom/bilibili
+    url: https://space.bilibili.com/60684260
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 博士，导航、制导与控制
+    institution: 北京航空航天大学
+    date_start: 2021-09-01
+    date_end: 2025-06-20
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 硕士，导航、制导与控制
+    institution: 北京航空航天大学
+    date_start: 2018-09-01
+    date_end: 2021-06-20
     summary: |
       GPA: 3.8/4.0
 
@@ -60,10 +58,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 本科，自动化
+    institution: 华北电力大学
+    date_start: 2014-09-01
+    date_end: 2018-06-20
     summary: |
       GPA: 3.4/4.0
       
@@ -71,9 +69,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: 基于图像视觉伺服的多旋翼无人机高速拦截
+    company_name: 研究课题
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -169,4 +168,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+本人目前在北航全权老师课题组攻读博士研究生（硕博连读），导师为全权、白成刚教授。研究方向：**无人机自主拦截/打击，集群对抗，视觉导航**。获2020年“如影随行”无人机空中精确对接技术挑战赛模拟对接比赛第二名, “智在飞翔”2021 • 无人飞行器智能感知技术竞赛线上仿真赛废墟赛道一等奖和公园赛道三等奖，线下实飞赛第二名（皆为队长）。
