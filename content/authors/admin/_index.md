@@ -33,7 +33,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/KennethYangle
   - icon: brands/weixin
-    url: https://yangkun-files.oss-cn-beijing.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg
+    url: uploads/weixin.jpg
     label: 13263120776
   - icon: custom/bilibili
     url: https://space.bilibili.com/60684260
@@ -53,7 +53,7 @@ education:
 
     button:
       text: '下载详细研究内容PPT'
-      url: https://yangkun-files.oss-cn-beijing.aliyuncs.com/%E8%A7%86%E7%BA%BF%E8%A7%92%E7%BA%A6%E6%9D%9F%E4%B8%8B%E5%A4%9A%E6%97%8B%E7%BF%BC%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%8B%A6%E6%88%AA%E6%8E%A7%E5%88%B6.pdf
+      url: uploads/PPT.pdf
   - area: 硕士，导航、制导与控制
     institution: 北京航空航天大学
     date_start: 2018-09-01
