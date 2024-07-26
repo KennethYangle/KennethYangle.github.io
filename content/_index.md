@@ -42,16 +42,26 @@ sections:
       date_format: '2006年1月'
   - block: markdown
     content:
-      title: Publications
+      title: 论文专利
       subtitle: My subtitle
       text: >
-            [1] Yang, K., Bai, C. G., She, Z. K. & Quan, Q. High-speed interception multicopter control by image-based visual servoing [J]. IEEE Transactions on Control Systems Technology. 
+        <div style="font-size: 0.8em; line-height: 1.5; text-align: justify; margin-bottom: 0.5em;">
+        [1] Yang, K., Bai, C. G., She, Z. K. & Quan, Q. High-speed interception multicopter control by image-based visual servoing [J]. IEEE Transactions on Control Systems Technology. 
+        </div>
 
-             [2] Yang, K., Bai, C. G. & Quan, Q. Line-of-sight constrained multicopter interceptability [J]. Journal of Guidance Control and Dynamics.
+        <div style="font-size: 0.8em; line-height: 1.5; text-align: justify; margin-bottom: 0.5em;">
+        [2] Yang, K., Bai, C. G. & Quan, Q. Line-of-sight constrained multicopter interceptability [J]. Journal of Guidance Control and Dynamics.
+        </div>
 
-             [3] Yang, K., & Quan, Q. An autonomous intercept drone with image-based visual servo. In 2020 IEEE International Conference on Robotics and Automation (ICRA) (pp. 2230-2236). IEEE.
+        <div style="font-size: 0.8em; line-height: 1.5; text-align: justify; margin-bottom: 0.5em;">
+        [3] Yang, K., & Quan, Q. An autonomous intercept drone with image-based visual servo. In 2020 IEEE International Conference on Robotics and Automation (ICRA) (pp. 2230-2236). IEEE.
+        </div>
 
-             [4] Deng, H., Yang, K., Quan, Q., & Cai, K. Y. (2019). Accurate and flexible calibration method for a class of visual sensor networks. IEEE Sensors Journal.
-             
-             [5] Che, J. X., Yang, K., Zhou, Z. M., Ding, Y., Zhang, H. T., & Quan, Q. (2022, November). Hi-Speed Visual Servo Docking for Multicopter UAV based on Velocity Control Mode. In 2022 China Automation Congress (CAC). IEEE.
+        <div style="font-size: 0.8em; line-height: 1.5; text-align: justify; margin-bottom: 0.5em;">
+        [4] Deng, H., Yang, K., Quan, Q., & Cai, K. Y. (2019). Accurate and flexible calibration method for a class of visual sensor networks. IEEE Sensors Journal.
+        </div>
+
+        <div style="font-size: 0.8em; line-height: 1.5; text-align: justify; margin-bottom: 0.5em;">
+        [5] Che, J. X., Yang, K., Zhou, Z. M., Ding, Y., Zhang, H. T., & Quan, Q. (2022, November). Hi-Speed Visual Servo Docking for Multicopter UAV based on Velocity Control Mode. In 2022 China Automation Congress (CAC). IEEE.
+        </div>
 ---
