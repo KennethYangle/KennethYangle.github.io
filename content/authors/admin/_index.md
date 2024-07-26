@@ -81,7 +81,7 @@ work:
       - 提出基于图像的视觉伺服（IBVS）高速拦截方案，解决了相机固定安装在机身上时飞机运动与特征点成像之间的耦合难题。确保了在高速和大机动拦截控制过程中，目标始终在摄像机的视野范围内。
       - 提出一种延迟滤波（DKF）方案，解决相机成像过程中的延迟、帧率低的问题。
       - 实验验证了算法的有效性。我们的自主多旋翼在机载处理下，以超过 20m/s 的速度高速飞行拦截目标，最大俯仰角达到 50°。
-      {{< bilibili BV1gh4y187xK >}}<p style="margin-top: -7.5em; margin-bottom: 0;">
+      {{< bilibili BV1gh4y187xK >}}
   - position: 多旋翼无人机持续拦截控制
     company_name: 研究课题
     company_url: ''
@@ -91,7 +91,6 @@ work:
     summary: |
       如何让自主无人机像人类飞手一样，在拦截失败后还能主动发起后续拦截，对目标紧追不舍？本研究提出了一种增强型自主无人机拦截方法，利用球面成像模型和基于图像的视觉伺服（IBVS）技术，提高拦截综合成功率。通过新观测模型和蒙特卡洛定位（MCL）框架，实现了对目标的主动搜索和持续拦截。本研究还开发了适用于首次拦截和后续拦截各阶段统一的IBVS控制方案。实验结果显示，该方法显著提高了拦截成功率，在仿真中从34%提升至100%，在实际飞行中从30%提升至90%。
       {{< bilibili BV1Bc411t7NY >}}
-      <div style="margin-top: -7.5em;"></div>
   - position: 多旋翼飞行器集群拦截/对抗
     company_name: 研究课题
     company_url: ''
@@ -101,7 +100,6 @@ work:
     summary: |
       将单机拦截扩展至集群对抗领域。涉及到多视角目标估计、弱通信条件下集群任务分配问题
       {{< bilibili BV1gE421w722 >}}
-      <div style="margin-top: -7.5em;"></div>
   - position: JZ环境下无人机集群协同技术
     company_name: JKW
     company_url: ''
@@ -141,14 +139,12 @@ awards:
     awarder: DJI RoboMaster
     summary: |
       {{< bilibili BV1NV411X7ym >}}
-      <div style="margin-top: -7.5em;"></div>
   - title: “如影随行”无人机空中精确对接技术挑战赛模拟对接比赛第二名，队长
     url: https://news.buaa.edu.cn/info/1005/52970.htm
     date: '2020-10-15'
     awarder: 中国航天科工集团
     summary: |
       {{< bilibili BV1B4421Z7Ax >}}
-      <div style="margin-top: -7.5em;"></div>
   - title: 国家奖学金
     date: '2020-12-31'
     awarder: 中华人民共和国教育部
