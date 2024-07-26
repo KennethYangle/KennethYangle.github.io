@@ -81,8 +81,7 @@ work:
       - 提出基于图像的视觉伺服（IBVS）高速拦截方案，解决了相机固定安装在机身上时飞机运动与特征点成像之间的耦合难题。确保了在高速和大机动拦截控制过程中，目标始终在摄像机的视野范围内。
       - 提出一种延迟滤波（DKF）方案，解决相机成像过程中的延迟、帧率低的问题。
       - 实验验证了算法的有效性。我们的自主多旋翼在机载处理下，以超过 20m/s 的速度高速飞行拦截目标，最大俯仰角达到 50°。
-      {{< bilibili BV1gh4y187xK >}}
-      <div style="margin-top: -7.5em;"></div>
+      {{< bilibili BV1gh4y187xK >}}<p style="margin-top: -7.5em; margin-bottom: 0;">
   - position: 多旋翼无人机持续拦截控制
     company_name: 研究课题
     company_url: ''
@@ -103,48 +102,29 @@ work:
       将单机拦截扩展至集群对抗领域。涉及到多视角目标估计、弱通信条件下集群任务分配问题
       {{< bilibili BV1gE421w722 >}}
       <div style="margin-top: -7.5em;"></div>
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - position: JZ环境下无人机集群协同技术
+    company_name: JKW
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-10-01
+    date_end: 2023-10-01
+    summary: |
+      负责固定翼无人机红外制导打击算法研究及仿真验证，用于**巡飞弹图像末制导**阶段控制。
+  - position: 室内集群协同打击控制技术
+    company_name: JKW
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-12-01
+    date_end: 2022-09-01
+    summary: |
+      负责室内自主无人机集群软件架构开发，无人机集群控制算法和基于图像伺服的无人机自主打击技术研究，**实现国内领先的室内10机自主无人机协同搜索打击任务**。
+  - position: RflySim基于模型设计半物理仿真平台开发（教育类产品）
+    company_name: 北京卓翼智能科技有限公司
+    company_url: 'https://rflysim.com/doc/zh/'
+    date_start: 2019-03-01
+    date_end: ''
+    summary: |
+      基于模型—软件在环仿真—硬件在环仿真—实飞实验顺序，构建高逼真的无人机全流程开发平台[RflySim (https://rflysim.com/)](https://rflysim.com/doc/zh/)。
 
 # Awards.
 #   Add/remove as many awards below as you like.
