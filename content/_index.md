@@ -35,10 +35,12 @@ sections:
       is_education_first: true
   - block: awards
     content:
-      title: Awards
+      title: 竞赛获奖
       username: admin
-  - block: skills
+  - block: markdown
     content:
-      title: Skills & Hobbies
-      username: admin
+      title: Publication
+      subtitle: My subtitle
+      text: "[1] Yang, K., Bai, C. G., She, Z. K. & Quan, Q. High-speed interception multicopter control by image-based visual servoing.
+             [2]"
 ---
