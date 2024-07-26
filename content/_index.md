@@ -30,13 +30,16 @@ sections:
       username: admin
     design:
       # Hugo date format
-      date_format: 'January 2006'
+      date_format: '2006年1月'
       # Education or Experience section first?
       is_education_first: true
   - block: awards
     content:
       title: 竞赛获奖
       username: admin
+    design:
+      # Hugo date format
+      date_format: '2006年1月'
   - block: markdown
     content:
       title: Publication
