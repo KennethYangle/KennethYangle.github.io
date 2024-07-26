@@ -52,7 +52,7 @@ education:
       4. 多旋翼无人机自主飞行平台：构建无人机视觉自主拦截仿真和实验平台，高效验证算法有效性。
 
     button:
-      text: '下载详细研究内容PPT'
+      text: '查看详细研究内容PPT'
       url: uploads/PPT.pdf
   - area: 硕士，导航、制导与控制
     institution: 北京航空航天大学
@@ -176,4 +176,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-本人目前在北航全权老师课题组攻读博士研究生，导师为全权、白成刚教授。研究方向：**无人机自主拦截/打击，集群对抗，视觉导航**。获2020年“如影随行”无人机空中精确对接技术挑战赛模拟对接比赛第二名, “智在飞翔”2021 • 无人飞行器智能感知技术竞赛线上仿真赛废墟赛道一等奖和公园赛道三等奖，线下实飞赛第二名（皆为队长）。
+本人目前在北航全权老师课题组攻读博士研究生，导师为全权、白成刚教授。研究方向：<strong><font color=#fe7a03>无人机自主拦截/打击，集群对抗，视觉导航</font></strong>。获2020年“如影随行”无人机空中精确对接技术挑战赛模拟对接比赛第二名, “智在飞翔”2021 • 无人飞行器智能感知技术竞赛线上仿真赛废墟赛道一等奖和公园赛道三等奖，线下实飞赛第二名（皆为队长）。
