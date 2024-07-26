@@ -33,7 +33,8 @@ profiles:
   - icon: brands/github
     url: https://github.com/KennethYangle
   - icon: brands/weixin
-    url: https://www.linkedin.com/
+    url: https://yangkun-files.oss-cn-beijing.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg
+    label: 13263120776
   - icon: custom/bilibili
     url: https://space.bilibili.com/60684260
 
@@ -43,10 +44,16 @@ education:
     date_start: 2021-09-01
     date_end: 2025-06-20
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      博士学位论文题目——视线角约束下的多旋翼无人机拦截控制研究。
+      学位论文旨在研究多旋翼无人机在空中目标拦截任务中的自主控制问题，特别是在视线角约束条件下的拦截控制策略。研究的重点是构建一个基于图像视觉伺服的无人机自主拦截与避障控制框架，涵盖以下四个主要方面
+      1. 视线约束下可拦截性研究：首先考虑视线约束下无人机动力和传感器布局对拦截任务可行性研究，在可拦截的这一前提下设计多种情况下自主拦截控制算法。
+      2. 基于图像视觉伺服的多旋翼自主拦截和避障控制：在确保无人机视线约束可拦截的基础上，开展基于图像视觉伺服技术的多旋翼无人机自主拦截和避障控制研究。特别关注在无人机高速机动和姿态大幅变化条件下的延迟补偿和控制策略。
+      3. 目标搜索和二次拦截策略设计：在自主拦截与避障控制的基础上，开展目标搜索和二次拦截策略设计研究，通过主动增加拦截次数以提高总体拦截成功率。
+      4. 多旋翼无人机自主飞行平台：构建无人机视觉自主拦截仿真和实验平台，高效验证算法有效性。
+
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: '下载详细研究内容PPT'
+      url: https://yangkun-files.oss-cn-beijing.aliyuncs.com/%E8%A7%86%E7%BA%BF%E8%A7%92%E7%BA%A6%E6%9D%9F%E4%B8%8B%E5%A4%9A%E6%97%8B%E7%BF%BC%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%8B%A6%E6%88%AA%E6%8E%A7%E5%88%B6.pdf
   - area: 硕士，导航、制导与控制
     institution: 北京航空航天大学
     date_start: 2018-09-01
@@ -82,6 +89,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      {{< bilibili BV1gh4y187xK >}}
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
@@ -168,4 +176,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-本人目前在北航全权老师课题组攻读博士研究生（硕博连读），导师为全权、白成刚教授。研究方向：**无人机自主拦截/打击，集群对抗，视觉导航**。获2020年“如影随行”无人机空中精确对接技术挑战赛模拟对接比赛第二名, “智在飞翔”2021 • 无人飞行器智能感知技术竞赛线上仿真赛废墟赛道一等奖和公园赛道三等奖，线下实飞赛第二名（皆为队长）。
+本人目前在北航全权老师课题组攻读博士研究生，导师为全权、白成刚教授。研究方向：**无人机自主拦截/打击，集群对抗，视觉导航**。获2020年“如影随行”无人机空中精确对接技术挑战赛模拟对接比赛第二名, “智在飞翔”2021 • 无人飞行器智能感知技术竞赛线上仿真赛废墟赛道一等奖和公园赛道三等奖，线下实飞赛第二名（皆为队长）。
