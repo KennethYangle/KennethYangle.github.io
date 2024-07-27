@@ -123,6 +123,14 @@ work:
     date_end: ''
     summary: |
       基于模型—软件在环仿真—硬件在环仿真—实飞实验顺序，构建高逼真的无人机全流程开发平台[RflySim (https://rflysim.com/)](https://rflysim.com/doc/zh/)。
+  - position: 交通违章检测研发（实习）
+    company_name: 北京旷视科技有限公司
+    company_url: 'https://www.megvii.com/'
+    date_start: 2019-10-01
+    date_end: 2019-12-01
+    summary: |
+      重构交通违章检测pipeline为并行模块化结构，包括行人、车辆、环境检测，3D框，reID，质量评价，目标跟踪，违章判断等模块。模块间数据以batch流动，业务速度提升一倍，可扩展性强；端到端的确定系统准确率和召回率，同时细化到每一模块效果，可视化评价结果，完善违章检测逻辑。
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
