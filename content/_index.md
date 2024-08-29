@@ -72,11 +72,11 @@ sections:
         </div>
 
         <div style="font-size: 0.8em; line-height: 1.5; text-align: justify; margin-bottom: 0.5em;">
-        [7] Yang, K., Bai, C. G. & Quan, Q. Line-of-sight constrained multicopter interceptability [J]. Journal of Guidance Control and Dynamics. (一审)
+        [7] Yang, K., Bai, C. G. & Quan, Q. Line-of-sight constrained multicopter interceptability [J]. Journal of Guidance Control and Dynamics. (小修)
         </div>
 
         <div style="font-size: 0.8em; line-height: 1.5; text-align: justify; margin-bottom: 0.5em;">
-        [8] Yang, K., Bai, C. G. & Quan, Q. A Unified and Persistent Interception Control of Multicopters with Strapdown Monocular Camera [J]. IEEE Transactions on Industrial Electronics. (一审)
+        [8] Yang, K., Bai, C. G. & Quan, Q. A Unified and Persistent Interception Control of Multicopters with Strapdown Monocular Camera [J]. IEEE Robotics and Automation Letters. (一审)
         </div>
 
         <h4 style="margin-top: 0; margin-bottom: 0.5em; font-size: 1.2em;">专利</h4>
